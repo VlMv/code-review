@@ -1,0 +1,23 @@
+{
+  "name": "code-review-chatgpt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-eslint": "^9.0.5",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "rollup": "^4.20.0"
+  }
+}
