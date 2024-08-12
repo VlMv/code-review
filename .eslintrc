@@ -66,6 +66,9 @@
          {
             "allowForLoopAfterthoughts": true
          }
+      ],
+      "class-methods-use-this": [
+         "off"
       ]
    }
 }
